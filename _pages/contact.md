@@ -28,6 +28,7 @@ window.onload = function() {
    <input type="submit" value="Wyślij">
 </form>
 
+
 <style>/* reset */
 #fs-frm input,
 #fs-frm select,
