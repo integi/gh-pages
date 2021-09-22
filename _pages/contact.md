@@ -13,7 +13,7 @@ window.onload = function() {
 }
 </script>
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/moqyrydd" method="post">
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mleazawe" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">imię i nazwisko</label>
     <input type="text" name="name" id="full-name" placeholder="Imię i Nazwisko" required="">
