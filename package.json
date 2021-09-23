@@ -2,10 +2,10 @@
   "name": "minimal-mistakes",
   "private": true,
   "version": "4.24.0",
-  "description": "Minimal Mistakes 2 column Jekyll theme.",
+  "description": "Integi site",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+    "url": "git://github.com/integi/gh-pages.git"
   },
   "keywords": [
     "jekyll",
