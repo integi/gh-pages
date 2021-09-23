@@ -69,7 +69,7 @@ window.onload = function() {
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mleazawe" method="post">
   <fieldset id="fs-frm-inputs">
-    <label for="full-name">Imię i nNzwisko</label>
+    <label for="full-name">Imię i Nazwisko</label>
     <input type="text" name="name" id="full-name" placeholder="imię i nazwisko" required="">
     <label for="email-address">Adres e-mail</label>
     <input type="email" name="_replyto" id="email-address" placeholder="email@domena.pl" required="">
