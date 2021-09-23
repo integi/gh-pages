@@ -69,8 +69,6 @@
 
 
 
-  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Integi Feed">
-
 
 <!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -99,6 +97,7 @@
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<link rel="stylesheet" href="/assets/css/formspree.css">
 <!-- end custom head snippets -->
 
   </head>
@@ -130,12 +129,6 @@
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/home/">Strona główna</a>
-            </li><li class="masthead__menu-item">
-              <a href="/service/">Oferta</a>
-            </li><li class="masthead__menu-item">
-              <a href="/contact/">Kontakt</a>
-            </li><li class="masthead__menu-item">
               <a href="/about/">O mnie</a>
             </li><li class="masthead__menu-item">
               <a href="/blog/">Blog</a>
@@ -237,6 +230,11 @@
     <div class="feature__item">
       <div class="archive__item">
         
+          <div class="archive__item-teaser">
+            <img src="/assets/images/integration.svg" alt="integracja" width="64" height="64" />
+            
+          </div>
+        
 
         <div class="archive__item-body">
           
@@ -259,6 +257,11 @@
   
     <div class="feature__item">
       <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/code.svg" alt="programowanie" width="64" height="64" />
+            
+          </div>
         
 
         <div class="archive__item-body">
@@ -283,6 +286,11 @@
     <div class="feature__item">
       <div class="archive__item">
         
+          <div class="archive__item-teaser">
+            <img src="/assets/images/support.svg" alt="obsługa" width="64" height="64" />
+            
+          </div>
+        
 
         <div class="archive__item-body">
           
@@ -306,34 +314,31 @@
 
 </div>
 
-<!--
+<h3>Formularz kontaktowy:</h3>
+<script>
+// javascript
+window.onload = function() { 
+  var el = document.getElementById('g-recaptcha-response'); 
+  if (el) { 
+    el.setAttribute('required', 'required'); 
+  } 
+}
+</script>
 
-
-<div class="feature__wrapper">
-
-  
-
-</div>
-
-
-
-
-<div class="feature__wrapper">
-
-  
-
-</div>
-
-
-
-
-<div class="feature__wrapper">
-
-  
-
-</div>
-
--->
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mleazawe" method="post">
+  <fieldset id="fs-frm-inputs">
+    <label for="full-name">imię i nazwisko</label>
+    <input type="text" name="name" id="full-name" placeholder="Imię i Nazwisko" required="" />
+    <label for="email-address">Adres e-mail</label>
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domena.pl" required="" />
+    <label for="message">Wiadomość</label>
+    <textarea rows="5" name="message" id="message" placeholder="tekst wiadomości" required=""></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="Wiadomość z integi.pl" />
+  </fieldset>
+  <div class="g-recaptcha" data-sitekey="6LdmEoMcAAAAAKbg4gCnuwMoT-9Td64sjtXs9Xik"></div>
+  <br />
+  <input type="submit" value="Wyślij" />
+</form>
 
     </section>
   </article>
@@ -357,6 +362,10 @@
     
       
         
+          <li><a href="https://www.linkedin.com/in/wojciech-kurpanik/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> Linked In</a></li>
+        
+      
+        
       
         
       
@@ -370,8 +379,6 @@
       
     
 
-    
-      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
     
   </ul>
 </div>

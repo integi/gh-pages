@@ -18,3 +18,5 @@ I tak w sierpniu 2021 założyłem firmę Integi.
 
 Obecnie współpracuję na umowy B2B z partenerami wdrożeniowymi Comarch przy różnych projektach, jak również z klientami końcowymi doradzając im w zakresie wdrożenia, obsługi i konfiguracji systemów ERP. 
 
+Jeżeli chciałbyś podjąć współpracę ze Mną daj znać przez profil <a href="https://www.linkedin.com/in/wojciech-kurpanik/">Linked in</a> lub formularz kontaktowy.
+

@@ -1,11 +1,11 @@
 # main links
 main:
-   - title: "Strona główna"
-     url: /home/
-   - title: "Oferta"
-     url: /service/
-   - title: "Kontakt"
-     url: /contact/
+   #- title: "Strona główna"
+   #  url: /home/
+   #- title: "Oferta"
+   #  url: /service/
+   #- title: "Kontakt"
+   #  url: /contact/
    - title: "O mnie"
      url: /about/
    - title: "Blog"
