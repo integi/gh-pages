@@ -176,6 +176,7 @@ body {
 
   &--overlay {
     position: relative;
+    height: inherit;
     margin-bottom: 2em;
     padding: 3em 0;
     @include clearfix;

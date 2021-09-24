@@ -1,0 +1,17 @@
+images:
+  - image:
+      title: "Platforma Integracyjna"
+      overlay_color: "#000"
+      overlay_filter: "0.5"
+      overlay_image: /assets/images/unsplash-image.png
+      actions:
+        - label: "Dowiedz się więcej"
+          url: "/pi/"
+      caption: "NOWY PRODUKT"
+      excerpt: "Uniwersalne rozwiązanie dedykowane dla systemów ERP do importu i eksport danych."
+  - image:
+      title: "Baner reklamowy"
+      overlay_color: "#000"
+      overlay_filter: "0.5"
+      overlay_image: /assets/images/2.png
+      excerpt: "baner reklamowy"

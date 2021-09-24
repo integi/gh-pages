@@ -1,7 +1,11 @@
 ---
 title: "Platforma Integracyjna"
-permalink: /pi/
 layout: splash
+permalink: /pi/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/unsplash-image.png
 ---
 <h1>Platforma integracyjna</h1>
 

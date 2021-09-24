@@ -8,6 +8,6 @@ var store = [{
         "title": "Staramy się o partnerstwo Comarch!",
         "excerpt":"Miło Nam poinformować, że nawiązaliśmy kontakt z firmą Comarch i ubiegamy się o status Partner. Więcej informacji wkrótce!  ","categories": ["Comarch"],
         "tags": ["Comarch ERP XL","Comarch Altum","Comarch Optima"],
-        "url": "/comarch/comarch_partner_issue/",
+        "url": "/comarch/comarch_contact/",
         "teaser": null
       }]

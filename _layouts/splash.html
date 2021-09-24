@@ -1,10 +1,10 @@
 ---
 layout: default
-image_sliders:
-  - slider1
 ---
 
-{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+{% if page.override_splash %}
+  {% include carousel.html height="400" unit="px" duration="7" %}
+{% else if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
   {% include page__hero_video.html %}

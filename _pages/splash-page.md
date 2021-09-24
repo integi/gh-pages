@@ -2,15 +2,8 @@
 title: "Platforma Integracyjna"
 layout: splash
 permalink: /
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image.png
-  actions:
-    - label: "Dowiedz się więcej"
-      url: "/pi/"
-  caption: "NOWY PRODUKT"
-excerpt: "Uniwersalne rozwiązanie dedykowane dla systemów ERP do importu i eksport danych."
+override_splash: true
+
 intro: 
   - excerpt: 'Wśród firm wdrożeniowych krąży stare porzekadło:
               <br><br><b><i>"Nie ma złych systemów ERP, są tylko lepiej lub gorzej wdrożone"</i></b>.
@@ -44,14 +37,6 @@ feature_row:
     url: "#test-link"
     btn_label: "Więcej"
     btn_class: "btn--primary"
-contact:
-  - #image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "Kontakt"
-    title: "Kontakt"
-    excerpt: "Wdrażamy systemy ERP dostosowując je do potrzeb Twojego biznesu. Integrujemy istniejące rozwiązania z systemami ERP."
-  - alt: "Formularz kontaktowy"
-    title: "Formularz kontaktowy"
-    excerpt: "Formularz kontaktowy"
 ---
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
@@ -81,3 +66,4 @@ window.onload = function() {
   <br/>
   <input type="submit" value="Wyślij">
 </form>
+
