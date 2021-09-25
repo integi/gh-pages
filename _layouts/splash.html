@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% if page.override_splash %}
+{% if page.override_splash  %}
   {% include carousel.html height="400" unit="px" duration="7" %}
 {% else if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}

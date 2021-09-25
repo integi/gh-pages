@@ -20,10 +20,13 @@
         {% assign previndex = forloop.index0 | minus: 1 %}
       {% endif %}
       {% assign prevletter = letters[previndex] %}
+
+      {% if site.data.carousel.images.size > 1 %}
       <div class="carousel__controls">
           <label class="carousel__control carousel__control--backward" for="{{ prevletter }}"></label>
           <label class="carousel__control carousel__control--forward" for="{{ nextletter }}"></label>
       </div>
+      {% endif %}    
     {% endfor %}
     <div class="carousel__track">
       <ul>
@@ -90,10 +93,12 @@
       </ul>
     </div>
     <div class="carousel__indicators">
-      {% for item in site.data.carousel.images %}
-        <label class="carousel__indicator" for="{{ letters[forloop.index0] }}"></label>
-      {% endfor %}
-    </div>  
+      {% if site.data.carousel.images.size > 1 %}
+        {% for item in site.data.carousel.images %}
+          <label class="carousel__indicator" for="{{ letters[forloop.index0] }}"></label>
+        {% endfor %}
+      {% endif %}
+    </div> 
   </div>
 </div>
 <style>

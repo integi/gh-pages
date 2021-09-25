@@ -14,9 +14,9 @@ Zawsze preferowałem bezpośredni kontakt z klientem, przeprowadzałem samodziel
 Analizowałem zapotrzebowania, tworzyłem specyfikację, programowałem, wdrażałem i utrzymywałem swoje integracje.
 
 Po latach stwierdziłem, że skoro tak dobrze mi idzie to czy nie lepiej założyć własnej działalności i przejść na samozatrudnienie.
-I tak w sierpniu 2021 założyłem firmę Integi.
+W sierpniu 2021 założyłem firmę Integi.
 
 Obecnie współpracuję na umowy B2B z partenerami wdrożeniowymi Comarch przy różnych projektach, jak również z klientami końcowymi doradzając im w zakresie wdrożenia, obsługi i konfiguracji systemów ERP. 
 
-Jeżeli chciałbyś podjąć współpracę ze Mną daj znać przez profil <a href="https://www.linkedin.com/in/wojciech-kurpanik/">Linked in</a> lub formularz kontaktowy.
+Jeżeli chciałbyś podjąć współpracę ze Mną daj znać przez profil <a href="https://www.linkedin.com/in/wojciech-kurpanik/">LinkedIn</a> lub formularz kontaktowy.
 
