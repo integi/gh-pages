@@ -6,8 +6,14 @@ var store = [{
         "teaser": null
       },{
         "title": "Staramy się o partnerstwo Comarch!",
-        "excerpt":"Miło Nam poinformować, że nawiązaliśmy kontakt z firmą Comarch i ubiegamy się o status Partner. Więcej informacji wkrótce!  ","categories": ["Comarch"],
+        "excerpt":"Miło Nam poinformować, że nawiązaliśmy kontakt z firmą Comarch i ubiegamy się o status Partner.   Więcej informacji wkrótce!  ","categories": ["Comarch"],
         "tags": ["Comarch ERP XL","Comarch Altum","Comarch Optima"],
         "url": "/comarch/comarch_contact/",
+        "teaser": null
+      },{
+        "title": "Partnerstwo Comarch!",
+        "excerpt":"Firma Integi otrzymała partnerstwo Comarch. Wdrażamy rozwiązania firmy Comarch dla sektora MŚP.  ","categories": ["Comarch"],
+        "tags": ["Comarch XT","Comarch Optima"],
+        "url": "/comarch/comarch_partner/",
         "teaser": null
       }]

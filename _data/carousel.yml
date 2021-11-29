@@ -1,5 +1,15 @@
 images:
   - image:
+      title: "Comarch ERP XT"
+      overlay_color: "#000"
+      overlay_filter: "0.5"
+      overlay_image: /assets/images/comarch-xt.png
+      actions:
+        - label: Testuj za darmo!
+          url: https://app.erpxt.pl/app#Register?Reseller=7c532a80-8f77-4aef-9183-5fd779385c52
+      excerpt: "Program do zarządzania dla małej firmy i JDG.<br/>
+                Fakturowanie, magazyn, księgowość online w intuicyjnej aplikacji."
+  - image:
       title: "Platforma Integracyjna"
       overlay_color: "#000"
       overlay_filter: "0.5"
@@ -9,9 +19,3 @@ images:
           url: "/pi/"
       caption: "NOWY PRODUKT"
       excerpt: "Uniwersalne rozwiązanie dedykowane dla systemów ERP do importu i eksport danych."
-  #- image:
-      #title: "Baner reklamowy"
-      #overlay_color: "#000"
-      #overlay_filter: "0.5"
-      #overlay_image: /assets/images/2.png
-      #excerpt: "baner reklamowy"
