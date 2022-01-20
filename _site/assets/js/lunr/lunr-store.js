@@ -16,4 +16,10 @@ var store = [{
         "tags": ["Comarch XT","Comarch Optima"],
         "url": "/comarch/comarch_partner/",
         "teaser": null
+      },{
+        "title": "Certyfikowany partner Comarch!",
+        "excerpt":"Jesteśmy certyfikowanym partnerem Comarch.   ","categories": ["Comarch"],
+        "tags": ["Comarch XL"],
+        "url": "/comarch/comarch_certyficated_partner/",
+        "teaser": null
       }]

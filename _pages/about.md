@@ -1,5 +1,5 @@
 ---
-title: "O mnie"
+title: "O firmie"
 permalink: /about/
 ---
 Czołem logice!

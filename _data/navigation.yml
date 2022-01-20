@@ -6,7 +6,7 @@ main:
    #  url: /service/
    #- title: "Kontakt"
    #  url: /contact/
-   - title: "O mnie"
+   - title: "O firmie"
      url: /about/
    - title: "Blog"
      url: /blog/

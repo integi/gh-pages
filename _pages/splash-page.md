@@ -8,7 +8,9 @@ intro:
   - excerpt: 'Wśród firm wdrożeniowych krąży stare porzekadło:
               <br><br><b><i>"Nie ma złych systemów ERP, są tylko lepiej lub gorzej wdrożone"</i></b>.
               <br><br>Jeżeli masz problem z aktualną obsługą systemu, potrzebujesz pomocy przy wdrożeniu lub usprawnieniu procesów w Twojej firmie skontaktuj się z Nami.
-              <br><br>Jesteśmy partnerem Comarchu.'
+              <br><br>Jesteśmy certyfikowanym partnerem Comarch.'
+  - image_path: assets/images/certificate_partner.png
+    alt: "Potwierdzona aktualnymi certyfikatami znajomość systemów Comarch ERP"
 
 feature_row:
   - image_path: assets/images/integration.svg
@@ -17,30 +19,66 @@ feature_row:
     alt: "integracja"
     title: "Wdrożenia i integracje"
     excerpt: "Wdrażamy systemy ERP dostosowując je do potrzeb Twojego biznesu. Integrujemy istniejące rozwiązania z systemami ERP."
-    url: "#test-link"
-    btn_label: "Więcej"
-    btn_class: "btn--primary"
+    #url: "#test-link"
+    #btn_label: "Więcej"
+    #btn_class: "btn--primary"
   - image_path: assets/images/code.svg
     image_w: 64
     image_h: 64
     alt: "programowanie"
     title: "Programowanie"
     excerpt: "Tworzymy nowoczesne aplikacje bazodanowe pod konkretne branże, wykorzystując do tego najlepsze technologie i standardy kodowania."
-    url: "#test-link"
-    btn_label: "Więcej"
-    btn_class: "btn--primary"
+    #url: "#test-link"
+    #btn_label: "Więcej"
+    #btn_class: "btn--primary"
   - image_path: assets/images/support.svg
     image_w: 64
     image_h: 64
     alt: "obsługa"
     title: "Pomoc"
     excerpt: "Oferujemy wspracie techniczne oraz doradstwo w zakresie konfiguracji, wdrożenia i obsługi systemów ERP."
-    url: "#test-link"
-    btn_label: "Więcej"
-    btn_class: "btn--primary"
+    #url: "#test-link"
+    #btn_label: "Więcej"
+    #btn_class: "btn--primary"
+comarchxt: 
+  - image_path: assets/images/XT_mockup_logo.png
+    image_w: 1920
+    image_h: 1080
+    alt: "Comarch ERP XT"
+    title: "Comarch ERP XT"
+    excerpt: "Comarch ERP XT to program do sprawnego fakturowania online, kontroli magazynu, prowadzenia księgowości (KPiR i pełnej księgowości), raportowania oraz prowadzenia e-sklepu przeznaczony <b>dla mikro i małych firm</b>. W zależności od Twoich potrzeb możesz wybrać i płacić za te usługi, których potrzebujesz."
+    #url: "erpxt/"
+    #btn_label: "Więcej"
+    #btn_class: "btn--primary"
+comarchopt:
+  - image_path: assets/images/opt_mockup_logo.png
+    image_w: 1920
+    image_h: 1042
+    alt: "Comarch ERP OPTIMA"
+    title: "Comarch ERP OPTIMA"
+    excerpt: "Comarch ERP Optima to najpopularniejszy w Polsce program przeznaczony <b>dla małych i średnich firm</b> z każdej branży. Dzięki modułom dedykowanym każdemu obszarowi biznesowemu (faktury, płace, kasa/bank, sprzedaż, handel z magazynem itd.) jest optymalnym systemem ERP do zarządzania firmą."
+    #url: "erpoptima/"
+    #btn_label: "Więcej"
+    #btn_class: "btn--primary"
+comarchxl:
+  - image_path: assets/images/xl_mockup_logo.png
+    image_w: 1920
+    image_h: 1042
+    alt: "Comarch ERP XL"
+    title: "Comarch ERP XL"
+    excerpt: "Comarch ERP XL to rozbudowany funkcjonalnie system klasy ERP przeznaczony <b>dla średnich i dużych firm</b>. Charakteryzuje się elastyczną budową modułową. Funkcjonalności systemu zgrupowane są w kilkunastu współpracujących ze sobą obszarach. Optymalna konfiguracja i ilość modułów dobierana jest na podstawie wnikliwej analizy potrzeb i specyfiki funkcjonowania firmy."
+    #url: "erpxl/"
+    #btn_label: "Więcej"
+    #btn_class: "btn--primary"
 ---
+
+
+
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
+{% include feature_row id="comarchxt" type="left" %}
+{% include feature_row id="comarchopt" type="right" %}
+{% include feature_row id="comarchxl" type="left" %}
 
 <h3>Formularz kontaktowy:</h3>
 <script>
