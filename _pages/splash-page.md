@@ -51,7 +51,7 @@ comarchxt:
     #btn_label: "Więcej"
     #btn_class: "btn--primary"
 comarchopt:
-  - image_path: assets/images/opt_mockup_logo.png
+  - image_path: assets/images/OPT_mockup_logo.png
     image_w: 1920
     image_h: 1042
     alt: "Comarch ERP OPTIMA"
@@ -61,7 +61,7 @@ comarchopt:
     #btn_label: "Więcej"
     #btn_class: "btn--primary"
 comarchxl:
-  - image_path: assets/images/xl_mockup_logo.png
+  - image_path: assets/images/XL_mockup_logo.png
     image_w: 1920
     image_h: 1042
     alt: "Comarch ERP XL"
