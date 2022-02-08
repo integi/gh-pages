@@ -72,8 +72,6 @@ comarchxl:
     #btn_class: "btn--primary"
 ---
 
-
-
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
 {% include feature_row id="comarchxt" type="left" %}
