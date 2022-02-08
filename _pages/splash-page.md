@@ -36,7 +36,7 @@ feature_row:
     image_h: 64
     alt: "obsługa"
     title: "Pomoc"
-    excerpt: "Oferujemy wspracie techniczne oraz doradstwo w zakresie konfiguracji, wdrożenia i obsługi systemów ERP."
+    excerpt: "Oferujemy wsparcie techniczne oraz doradztwo w zakresie konfiguracji, wdrożenia i obsługi systemów ERP."
     #url: "#test-link"
     #btn_label: "Więcej"
     #btn_class: "btn--primary"
