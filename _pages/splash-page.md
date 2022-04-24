@@ -10,6 +10,8 @@ intro:
               <br><br>Jeżeli masz problem z aktualną obsługą systemu, potrzebujesz pomocy przy wdrożeniu lub usprawnieniu procesów w Twojej firmie skontaktuj się z Nami.
               <br><br>Jesteśmy partnerem Comarch.'
   - image_path: assets/images/partner.png
+    image_w: 180
+    image_h: 120
     alt: "Potwierdzona aktualnymi certyfikatami znajomość systemów Comarch ERP"
 
 feature_row:
