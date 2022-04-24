@@ -1,5 +1,5 @@
 ---
-title: "Platforma Integracyjna"
+title: "Integi Wojciech Kurpanik"
 layout: splash
 permalink: /
 override_splash: true
