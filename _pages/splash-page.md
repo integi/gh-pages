@@ -14,8 +14,11 @@ intro:
     image_h: 120
     alt: "Potwierdzona aktualnymi certyfikatami znajomość systemów Comarch ERP"
           <br><br>Jesteśmy partnerem Comarch.'
+<<<<<<< HEAD
     image_path: assets/images/partner.png
 
+=======
+>>>>>>> 1fde7d55a38bb62f9aa8ee0e667fbfc11d75790e
 
 feature_row:
   - image_path: assets/images/integration.svg
