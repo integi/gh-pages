@@ -8,8 +8,8 @@ intro:
   - excerpt: 'Wśród firm wdrożeniowych krąży stare porzekadło:
               <br><br><b><i>"Nie ma złych systemów ERP, są tylko lepiej lub gorzej wdrożone"</i></b>.
               <br><br>Jeżeli masz problem z aktualną obsługą systemu, potrzebujesz pomocy przy wdrożeniu lub usprawnieniu procesów w Twojej firmie skontaktuj się z Nami.
-              <br><br>Jesteśmy certyfikowanym partnerem Comarch.'
-  - image_path: assets/images/certificate_partner.png
+              <br><br>Jesteśmy partnerem Comarch.'
+  - image_path: assets/images/partner.png
     alt: "Potwierdzona aktualnymi certyfikatami znajomość systemów Comarch ERP"
 
 feature_row:
