@@ -77,9 +77,11 @@ comarchxl:
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
+{% comment %}
 {% include feature_row id="comarchxt" type="left" %}
 {% include feature_row id="comarchopt" type="right" %}
 {% include feature_row id="comarchxl" type="left" %}
+{% endcomment %}
 
 <h3>Formularz kontaktowy:</h3>
 <script>
