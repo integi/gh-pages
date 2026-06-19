@@ -14,8 +14,25 @@ intro:
     image_h: 120
     alt: "Potwierdzona aktualnymi certyfikatami znajomość systemów Comarch ERP
           <br><br>Jesteśmy partnerem Comarch."      
-
-feature_row: - image_path: assets/images/integration.svg image_w: 64 image_h: 64 alt: "Wdrożenia i integracje systemów ERP" title: "Wdrożenia i integracje" excerpt: "Wdrażamy i rozwijamy systemy ERP w oparciu o rzeczywiste potrzeby oraz procesy zachodzące w firmie. Integrujemy je z aplikacjami zewnętrznymi, platformami sprzedażowymi, systemami magazynowymi i innymi źródłami danych, ograniczając ręczną pracę oraz ryzyko błędów." - image_path: assets/images/code.svg image_w: 64 image_h: 64 alt: "Dedykowane oprogramowanie dla firm" title: "Oprogramowanie dedykowane" excerpt: "Tworzymy aplikacje, rozszerzenia i mechanizmy automatyzujące pracę tam, gdzie standardowe funkcje systemu nie są wystarczające. Projektujemy rozwiązania dopasowane do specyfiki firmy, jej procedur oraz wykorzystywanego środowiska informatycznego." - image_path: assets/images/support.svg image_w: 64 image_h: 64 alt: "Wsparcie i rozwój systemów ERP" title: "Wsparcie i rozwój" excerpt: "Zapewniamy wsparcie techniczne i merytoryczne użytkowników systemów ERP. Pomagamy w konfiguracji, rozwiązywaniu problemów, optymalizacji procesów oraz dalszym rozwoju wdrożonych rozwiązań wraz ze zmieniającymi się potrzebami firmy."
+feature_row:
+  - image_path: assets/images/integration.svg
+    image_w: 64
+    image_h: 64
+    alt: "Wdrożenia i integracje systemów ERP"
+    title: "Wdrożenia i integracje"
+    excerpt: "Wdrażamy i rozwijamy systemy ERP w oparciu o rzeczywiste potrzeby oraz procesy zachodzące w firmie. Integrujemy je z aplikacjami zewnętrznymi, platformami sprzedażowymi, systemami magazynowymi i innymi źródłami danych, ograniczając ręczną pracę oraz ryzyko błędów."
+  - image_path: assets/images/code.svg
+    image_w: 64
+    image_h: 64
+    alt: "Dedykowane oprogramowanie dla firm"
+    title: "Oprogramowanie dedykowane"
+    excerpt: "Tworzymy aplikacje, rozszerzenia i mechanizmy automatyzujące pracę tam, gdzie standardowe funkcje systemu nie są wystarczające. Projektujemy rozwiązania dopasowane do specyfiki firmy, jej procedur oraz wykorzystywanego środowiska informatycznego."
+  - image_path: assets/images/support.svg
+    image_w: 64
+    image_h: 64
+    alt: "Wsparcie i rozwój systemów ERP"
+    title: "Wsparcie i rozwój"
+    excerpt: "Zapewniamy wsparcie techniczne i merytoryczne użytkowników systemów ERP. Pomagamy w konfiguracji, rozwiązywaniu problemów, optymalizacji procesów oraz dalszym rozwoju wdrożonych rozwiązań wraz ze zmieniającymi się potrzebami firmy."
 comarchxt: 
   - image_path: assets/images/XT_mockup_logo.png
     image_w: 1920
