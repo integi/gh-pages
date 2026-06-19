@@ -2,21 +2,17 @@
 title: "O firmie"
 permalink: /about/
 ---
-Czołem logice!
+Nazywam się Wojciech Kurpanik. Jestem programistą .NET oraz specjalistą w zakresie wdrażania, rozwoju i integracji systemów ERP.
 
-Nazywam się Wojciech Kurpanik jestem programistą .NET, jak już pewnie zdarzyłeś się zorientować moją specjalizacją są systemy ERP. 
+Przez 12 lat pracowałem w firmie wdrożeniowej, zdobywając doświadczenie na każdym etapie realizacji projektów — od pierwszej linii wsparcia, przez konsulting, wdrożenia i analizę biznesową, aż po stanowisko głównego programisty.
 
-Przez 12 lat pracowałem w firmie wdrożeniowej gdzie przeszedłem pełną ścieżkę kompetencyjną od konsultanta na pierwszej linii wsparcia, następnie wdrożeniowca i analityka biznesowego, kończąc jako główny programista.
-Posiadam branżowy KNOW-HOW poparty wieloletnim doświadczeniem we wdrażaniu i integracji systemów Comarch ERP XL, Altum, Optima. 
+Specjalizuję się w systemach Comarch ERP XL, Comarch ERP Altum oraz Comarch ERP Optima. Łączę wiedzę techniczną ze znajomością procesów biznesowych, dzięki czemu tworzę rozwiązania dopasowane zarówno do możliwości systemu, jak i rzeczywistych potrzeb przedsiębiorstwa.
 
-Napisałem setki mechanizmów integrujących mniejszych i większych. 
-Zawsze preferowałem bezpośredni kontakt z klientem, przeprowadzałem samodzielnie integracje w pełnym zakresie. 
-Analizowałem zapotrzebowania, tworzyłem specyfikację, programowałem, wdrażałem i utrzymywałem swoje integracje.
+Zrealizowałem wiele projektów integracyjnych o różnej skali i stopniu złożoności. W większości z nich odpowiadałem za cały proces: analizę potrzeb, opracowanie założeń i specyfikacji, programowanie, wdrożenie oraz późniejsze utrzymanie rozwiązania. Bezpośrednia współpraca z klientem pozwala mi dobrze zrozumieć jego oczekiwania i proponować rozwiązania, które realnie usprawniają codzienną pracę.
 
-Po latach stwierdziłem, że skoro tak dobrze mi idzie to czy nie lepiej założyć własnej działalności i przejść na samozatrudnienie.
-W sierpniu 2021 założyłem firmę Integi.
+W sierpniu 2021 roku założyłem firmę Integi, aby samodzielnie rozwijać projekty związane z systemami ERP, integracjami oraz dedykowanym oprogramowaniem dla biznesu.
 
-Obecnie współpracuję na umowy B2B z partenerami wdrożeniowymi Comarch przy różnych projektach, jak również z klientami końcowymi doradzając im w zakresie wdrożenia, obsługi i konfiguracji systemów ERP. 
+Obecnie współpracuję zarówno z partnerami wdrożeniowymi Comarch w modelu B2B, jak i bezpośrednio z klientami końcowymi. Oferuję wsparcie w zakresie analizy procesów, wdrażania i konfiguracji systemów ERP, tworzenia integracji oraz rozwoju indywidualnych rozwiązań programistycznych.
 
-Jeżeli chciałbyś podjąć współpracę ze Mną daj znać przez profil <a href="https://www.linkedin.com/in/wojciech-kurpanik/">LinkedIn</a> lub formularz kontaktowy.
+Zapraszam do kontaktu za pośrednictwem <a href="https://www.linkedin.com/in/wojciech-kurpanik/">LinkedIn</a> lub formularza kontaktowego.
 
